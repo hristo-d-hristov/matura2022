@@ -103,7 +103,7 @@ day = "неделя";
 
 16. Кой от следните методи е <b>set</b> свойство на поле данни, декларирано като
 ```
-<b> private String lastName;
+<b> private String lastName </b>;
 ```
 a) private String setLastName (String name) { name = lastName; } 
 б) private String setLastName (String name) { return name; }
