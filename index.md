@@ -94,18 +94,19 @@ int gamma=(12/5)++;
 5
 
 <table>
-  <thead>
-    <th>Примерен вход</th>
-    <th>Примерен изход</th>
-  </thead>
   <tbody>
-    <td>330</td>
-    <td>
-      2<br>
-      3<br>
-      5<br>
-      11
-    </td>
+    <tr>
+      <th>Примерен вход:</th>
+      <td>20</td>
+      <td>330</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <th>Примерен изход:</th>
+      <td>2 <br>  2 <br> 5 </td>
+      <td>2 <br>  3 <br> 5 <br> 11</td>
+      <td>NO</td>
+    </tr>
   </tbody>
 </table>
 Примерен вход: 330
