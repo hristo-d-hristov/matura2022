@@ -106,7 +106,7 @@ private String lastName ;
 ```
 a) private String setLastName (String name) { name = lastName; } <br>
 б) private String setLastName (String name) { return name; } <br>
-в) public void setlastname() { return lastName; }  <br>
+в) public void setLastName() { return lastName; }  <br>
 г) public void setLastName (String name) { lastName=name; } <br>
 
 
