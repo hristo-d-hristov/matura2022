@@ -188,7 +188,8 @@ things[1]= &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; <br>
 things[2]= &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; <br>
 
 
-20. alabala
+20. Какво стойности на <br>S<\br> и на <br>Index<\br> ще бъдат отпечатани след изпълнение на програмния код:
+// тук трябва да сложиш pic_2.jpg (качила съм я в директорията на проекта)
 
 
 --------------------------
