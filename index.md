@@ -72,7 +72,16 @@ A = 11.45 / 5 - 3.5 * ( 12.7 + 4.5 );
 г) умножение и действието в скобите <br>
 
 
-11. alabala
+11. Три променливи са инициализирани по следния начин:
+```
+String a2="cat", a1="dog", a3="category";
+```
+Кой от следните изрази има стойност истина?
+а) a1.compareTo(a2) < 0 
+б) a2.compareTo(a3) < 0
+в) a3.compareTo(a1) > 0
+г) a1.compareTo(a3) ==0
+
 
 
 12. tralala
@@ -167,14 +176,14 @@ things[2]= &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; <br>
 </table>
 
 
-27. твой
+26. твой
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Greven%2C_Fuestrup%2C_Dortmund-Ems-Kanal%2C_Alte_Fahrt%2C_Sicherheitssperrtor_--_2021_--_3918.jpg">
 
 
-29. твой
+27. твой
 
 
-31. мой
+28. мой
 
 
 
