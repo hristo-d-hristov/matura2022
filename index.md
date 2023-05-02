@@ -117,10 +117,15 @@ day = "неделя";
       <td> г) </td>
       </b> </tr>
     <tr>
-      <td><b>Примерен изход:<br> &nbsp;<br>&nbsp;<br>&nbsp;<br> </b></td>
-      <td>2 <br>  2 <br> 5 <br>&nbsp;</td>
-      <td>2 <br>  3 <br> 5 <br> 11</td>
-      <td>NO <br> &nbsp;<br>&nbsp;<br> &nbsp;<br></td>
+      <td>int sum = 0, i = 1;
+        do {
+        sum + = i;
+        i++;
+        } while (i <= 3);
+        </td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
