@@ -98,9 +98,9 @@ int gamma=(12/5)++;
     </tr>
     <tr>
       <th>Примерен изход:</th>
-      <td>2 <br>  2 <br> 5 <br></td>
+      <td>2 <br>  2 <br> 5 <br>&nbsp;</td>
       <td>2 <br>  3 <br> 5 <br> 11</td>
-      <td>NO <br><br><br></td>
+      <td>NO <br> &nbsp;<br>&nbsp;<br></td>
     </tr>
   </tbody>
 </table>
