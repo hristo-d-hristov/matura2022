@@ -63,9 +63,22 @@ public class Shadow {
 
 
 10. 
+
 ---------------------------
-17.
-18.
+
+17. Подреди операторите в правилна последователност, така че след програмния фрагмент да получиш стойност beta=9.
+Непосредствено преди тези редове е използвана декларацията:
+```
+int alpha=12/4;
+int beta=Math.floor(-3.6);
+int gamma=(12/5)++;
+```
+   a)  else beta++;
+   b)  else beta=Math.pow(beta, 2);
+   c)  if (alpha>=beta) alpha++;
+   d)  if (beta>=gamma) beta=Math.pow(gamma, 2);
+
+18. alalbala
 19.
 20.
 
