@@ -106,8 +106,24 @@ day = "неделя";
 14. alabala
 
 
-15. tralala
+15. В кой от програмните фрагменти тялото на цикъла ще се изпълни един път?
 
+<table>
+  <tbody>
+    <tr> <b>
+      <td> а)</td>
+      <td> б) </td>
+      <td> в) </td>
+      <td> г) </td>
+      </b> </tr>
+    <tr>
+      <td><b>Примерен изход:<br> &nbsp;<br>&nbsp;<br>&nbsp;<br> </b></td>
+      <td>2 <br>  2 <br> 5 <br>&nbsp;</td>
+      <td>2 <br>  3 <br> 5 <br> 11</td>
+      <td>NO <br> &nbsp;<br>&nbsp;<br> &nbsp;<br></td>
+    </tr>
+  </tbody>
+</table>
 
 16. Кой от следните методи е <b>set</b> свойство на поле данни, декларирано като
 ```
