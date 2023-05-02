@@ -120,6 +120,7 @@ NO
 
 
 27. твой
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Greven%2C_Fuestrup%2C_Dortmund-Ems-Kanal%2C_Alte_Fahrt%2C_Sicherheitssperrtor_--_2021_--_3918.jpg" width="200">
 
 
 29. твой
