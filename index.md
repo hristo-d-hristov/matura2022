@@ -73,10 +73,10 @@ int alpha=12/4;
 int beta=Math.floor(-3.6);
 int gamma=(12/5)++;
 ```
-1)  else beta++;
-2)  else beta=Math.pow(beta, 2);
-3)  if (alpha>=beta) alpha++;
-4)  if (beta>=gamma) beta=Math.pow(gamma, 2);
+  1)  else beta++;
+  2)  else beta=Math.pow(beta, 2);
+  3)  if (alpha>=beta) alpha++;
+  4)  if (beta>=gamma) beta=Math.pow(gamma, 2);
    
 
 18. alalbala
