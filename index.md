@@ -105,10 +105,10 @@ day = "неделя";
 ```
 private String lastName ;
 ```
-a) private String setLastName (String name) { name = lastName; } 
-б) private String setLastName (String name) { return name; }
-в) public void setlastname() { return lastName; }
-г) public void setLastName (String name) { lastName=name; }
+a) private String setLastName (String name) { name = lastName; } <br>
+б) private String setLastName (String name) { return name; } <br>
+в) public void setlastname() { return lastName; }  <br>
+г) public void setLastName (String name) { lastName=name; } <br>
 
 
 ---------------------------
