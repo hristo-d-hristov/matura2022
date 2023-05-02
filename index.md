@@ -80,7 +80,7 @@ String a2="cat", a1="dog", a3="category";
 а) a1.compareTo(a2) < 0 <br> 
 б) a2.compareTo(a3) < 0 <br> 
 в) a3.compareTo(a1) > 0 <br> 
-г) a1.compareTo(a3) <=0 <br> 
+г) a1.compareTo(a2) <=0 <br> 
 
 
 
