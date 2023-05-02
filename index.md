@@ -97,10 +97,10 @@ int gamma=(12/5)++;
       <td>13 </td>
     </tr>
     <tr>
-      <td><b>Примерен изход:<br> &nbsp;<br>&nbsp;<br> </b></td>
+      <td><b>Примерен изход:<br> &nbsp;<br>&nbsp;<br>&nbsp;<br> </b></td>
       <td>2 <br>  2 <br> 5 <br>&nbsp;</td>
       <td>2 <br>  3 <br> 5 <br> 11</td>
-      <td>NO <br> &nbsp;<br>&nbsp;<br></td>
+      <td>NO <br> &nbsp;<br>&nbsp;<br> &nbsp;<br></td>
     </tr>
   </tbody>
 </table>
