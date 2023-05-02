@@ -124,9 +124,10 @@ day = "неделя";
         i++; <br>
         } while (i <= 3);
         </td>
-      <td> int sum=0;
-      for (int i=1; i<=2; i+=2)
-             sum+=i;</td>
+      <td> int sum=0; <br>
+      for (int i=1; i<=2; i+=2) <br>
+             sum+=i;
+      </td>
       <td>int sum = 0; <br>
         int i = 1; <br>
         while (i>=2){ <br>
