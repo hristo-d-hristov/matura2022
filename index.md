@@ -117,10 +117,10 @@ day = "неделя";
       <td> г) </td>
       </b> </tr>
     <tr>
-      <td>int sum = 0, i = 1;
-        do {
-        sum + = i;
-        i++;
+      <td>int sum = 0, i = 1; <br>
+        do { <br>
+        sum + = i; <br>
+        i++; <br>
         } while (i <= 3);
         </td>
       <td></td>
