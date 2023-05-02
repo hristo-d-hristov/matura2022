@@ -113,9 +113,9 @@ string [] things={"pen", "pergel", "notebook", "tape"};
 for (int i=1; i < 4; i++)
      things[i]=things[i-1]+"s";
 ```
-things[0]= &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; <br>
-things[1]= &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; <br>
-things[2]= &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; <br>
+things[0]= &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; <br>
+things[1]= &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; <br>
+things[2]= &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; <br>
 
 
 20. alabala
