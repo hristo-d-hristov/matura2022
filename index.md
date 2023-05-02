@@ -77,10 +77,10 @@ A = 11.45 / 5 - 3.5 * ( 12.7 + 4.5 );
 String a2="cat", a1="dog", a3="category";
 ```
 Кой от следните изрази има стойност истина?
-а) a1.compareTo(a2) < 0 
-б) a2.compareTo(a3) < 0
-в) a3.compareTo(a1) > 0
-г) a1.compareTo(a3) ==0
+а) a1.compareTo(a2) < 0 <br> 
+б) a2.compareTo(a3) < 0 <br> 
+в) a3.compareTo(a1) > 0 <br> 
+г) a1.compareTo(a3) <=0 <br> 
 
 
 
