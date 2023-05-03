@@ -295,7 +295,7 @@ int gamma=(12/5)++;
 ```
 а)  else beta++; <br>
 б)  else beta=Math.pow(beta, 2); <br>
-в)  if (alpha>=beta) alpha++; <br>
+в)  if (alpha<=beta) alpha++; <br>
 г)  if (beta>=gamma) beta=Math.pow(gamma, 2); <br>
    
 
