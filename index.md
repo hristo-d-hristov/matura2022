@@ -123,12 +123,12 @@ String a2="cat", a1="dog", a3="category";
 
 (12). Кое твърдение не е вярно?
 
-<img src="pic_3a.jpg" width="100%"/>
+<img src="pic_3a.jpg" width="30%"/>
 
-а) private_client е с дефиниция <b>protected </b> <br>
-б) методът number е с дефинициия <b>public </b> <br>
-в) number може да бъде наследяван <br>
-г) dispatch може да бъде пренаписван (overload) от наследниците <br>
+а) <b>private_client </b>е с дефиниция <b>protected </b> <br>
+б) методът <b>number </b>е с дефинициия <b>public </b> <br>
+в) <b>number </b>може да бъде наследяван <br>
+г) <b>dispatch </b>може да бъде пренаписван (overload) от наследниците <br>
 
 ---
 
