@@ -65,10 +65,13 @@ n - броя на охлювите.
 Пример:
 
 <table>
-  <tbody>
+  <thead>
     <tr>
       <td>Вход</td>
       <td>Изход</td>
+    <tr>
+  </thead>
+  <tbody>
     <tr>
       <td>
         n=3<br>
