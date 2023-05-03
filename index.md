@@ -6,39 +6,37 @@
 
 1. Какво ще се изпише в етикета message след изпълнение на програмния фрагмент?
 
-```
-float i = 15;
-do --i;
-while (i > -7);
-message.setText(i.toString());
-```
+  ```
+  float i = 15;
+  do --i;
+  while (i > -7);
+  message.setText(i.toString());
+  ```
 
-а) -6 <br>
-б) -7 <br>
-в) -8 <br>
-г) 14 <br>
-
-
+  а) -6 <br>
+  б) -7 <br>
+  в) -8 <br>
+  г) 14 <br>
 
 2. Kакво ще изведе даденият по-долу фрагмент?
 
-```
-switch (2) {
-  case 1:
-    System.out.println("one");
-  case 2:
-    System.out.println("two");
-  case 3:
-    System.out.println("three");
-  default:
-    System.out.println("another");
-}
-```
-
-а) two <br>
-б) three <br>
-в) another <br>
-г) никое от изброените <br>
+  ```
+  switch (2) {
+    case 1:
+      System.out.println("one");
+    case 2:
+      System.out.println("two");
+    case 3:
+      System.out.println("three");
+    default:
+      System.out.println("another");
+  }
+  ```
+  
+  а) two <br>
+  б) three <br>
+  в) another <br>
+  г) никое от изброените <br>
 
 
 3. Kакво ще изведе даденият по-долу фрагмент?
