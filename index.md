@@ -42,6 +42,7 @@ switch (2) {
 
 
 3. Kакво ще изведе даденият по-долу фрагмент?
+
 ```
 public class Shadow {
     static int a;
