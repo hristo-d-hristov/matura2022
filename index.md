@@ -13,10 +13,10 @@ while (i > -7);
 message.setText(i.toString());
 ```
 
-а) -6
-б) -7
-в) -8
-г) 14
+а) -6 <br>
+б) -7 <br>
+в) -8 <br>
+г) 14 <br>
 
 
 
@@ -35,10 +35,10 @@ switch (2) {
 }
 ```
 
-а) two
-б) three
-в) another
-г) никое от изброените
+а) two <br>
+б) three <br>
+в) another <br>
+г) никое от изброените <br>
 
 
 3. Kакво ще изведе даденият по-долу фрагмент?
@@ -53,10 +53,10 @@ public class Shadow {
 }
 ```
 
-а) 0
-б) 4
-в) RuntimeException
-г) друго
+а) 0 <br>
+б) 4 <br>
+в) RuntimeException <br>
+г) друго <br>
 
 // от тук са моите въпроси от 9 до 20
 
