@@ -1,6 +1,12 @@
+# Пробна матура по информатика, 3 май 2023
+
 <style>
   .markdown-body .highlight pre, .markdown-body pre, .markdown-body .highlight {
     background-color: transparent;
+  }
+  
+  .footer {
+    display: none;
   }
 </style>
 
