@@ -121,7 +121,7 @@ String a2="cat", a1="dog", a3="category";
 
 (12). Кое твърдение не е вярно?
 
-<img src="pic_3a.jpg" width="300"/>
+<img src="pic_3a.jpg" width="270"/>
 
 а) <b>private_client </b>е с дефиниция <b>protected </b> <br>
 б) методът <b>number </b>е с дефинициия <b>public </b> <br>
@@ -234,7 +234,7 @@ int gamma=(12/5)++;
 
 (18). При стартиране е въведена стойност за а=3. Допиши условието от последния ред, така че маркираният със стрелка оператор да се изпълни точно 9 пъти? <br>
 
-<img src="pic_1.jpg" width="400"/>
+<img src="pic_1.jpg" width="380"/>
 
 ---
 
