@@ -1,5 +1,5 @@
 <style>
-  .highlight {
+  .markdown-body .highlight pre, .markdown-body pre, .markdown-body .highlight {
     background-color: transparent;
   }
 </style>
@@ -10,7 +10,7 @@
 float i = 15;
 do --i;
 while (i > -7);
-lblResult.setText(i.toString());
+message.setText(i.toString());
 ```
 
 - -6
