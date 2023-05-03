@@ -101,7 +101,7 @@ String a2="cat", a1="dog", a3="category";
 
 (12). tralala
 
-<img src="pic_3.jpg" width="60%"/>
+<img src="pic_3.jpg" width="30%"/>
 
 а) 1 <br>
 б) 2 <br>
