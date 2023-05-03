@@ -1,3 +1,9 @@
+<style>
+  .highlight {
+    background-color: transparent;
+  }
+</style>
+
 1. Какво ще се изпише в етикета message след изпълнение на програмния фрагмент?
 
 ```
