@@ -87,12 +87,12 @@ n - броя на охлювите.
         Speed: 0.2<br>
         First name: Mikel<br>
         Age: 1<br>
-        Speed: 0.02<br>
+        Speed: 0.02
       </td>
       <td>
         John, 2 years old; 0.24 m/s<br>
         Sarah, 3 years old; 0.20 m/s<br>
-        Mikel, 1 years old; 0.02 m/s<br>
+        Mikel, 1 years old; 0.02 m/s
       </td>
     </tr>
   </tbody>
