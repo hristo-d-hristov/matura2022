@@ -121,7 +121,7 @@ String a2="cat", a1="dog", a3="category";
 
 (12). Кое твърдение не е вярно?
 
-<img src="pic_3a.jpg" width="270"/>
+<img src="pic_3a.jpg" width="180"/>
 
 а) <b>private_client </b>е с дефиниция <b>protected </b> <br>
 б) методът <b>number </b>е с дефинициия <b>public </b> <br>
