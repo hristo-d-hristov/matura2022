@@ -128,3 +128,15 @@
   - развитие на ПП и отстраняване на грешки;
   - отстраняване на грешки;
   - регистриране на съобщенията за грешки и на заявките за подобряване с оглед вземането им под внимание при евентуално разработване на нов подобен ПП. Режимът на съпровождане може да зависи от конкретно подписания договор, ако има пряка връзка между разработчика и потребителя.
+  
+![](richard-gunter/managementmethod0000gunt_0038.jpg)
+
+![](richard-gunter/managementmethod0000gunt_0039.jpg)
+
+![](richard-gunter/managementmethod0000gunt_0040.jpg)
+
+![](richard-gunter/managementmethod0000gunt_0041.jpg)
+
+![](richard-gunter/managementmethod0000gunt_0042.jpg)
+
+![](richard-gunter/managementmethod0000gunt_0043.jpg)
