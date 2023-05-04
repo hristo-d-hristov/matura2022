@@ -396,3 +396,5 @@ void selectionSort(int[] arr) {
 ---
 
 [> Втора част](vtora-chast.html)
+
+[> Нели Манева - Софтуерни технологии](neli-maneva-softuerni-tehnologii.html)
